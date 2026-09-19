@@ -29,3 +29,9 @@ This project is part of my journey to develop practical Data Analysis skills thr
 
 More analysis and visualization will be added as I continue learning Excel.
 
+## LinkedIn
+
+I shared my learning journey and PivotTable practice on LinkedIn.
+
+[View the LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7507094180293406720/)
+
